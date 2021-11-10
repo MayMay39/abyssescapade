@@ -1,5 +1,11 @@
-# An extravagant escapade
+# The Escapade of Legends
 
-Hi! ABYSSESCAPADE is the second of my projects and a truly grand platformer indeed. Play as Dott, a being with a simple dream to live a better life. Stuck in god's flawed world, he wishes to travel up a dimension known as Paraslixox, a gateway between the two worlds. However, the journey will not be easy. Phasing through the gateway will prove to be a challenge, and once our hero enters the dimension, he must collect 4 relics to exit. 
+Hello! Thanks for checking out this repository. ABYSS • ESCAPADE is an upcoming game, and the second release of the ABYSS series. Play as *Dott*, a little fellow with a simple dream of having a better life.
 
-As of November, ABYSSESCAPADE is still under development. However, a prototype is out at https://maymay39.itch.io/abyssescapade. Expect the full release in February 2021, I'm excited that I have the oppurtunity to develop this awesome game.
+A long time ago, the god of the worlds was unhappy with the universe he created and decided to build a new, fresh world right on top of the old one. To prevent the two from knowing eachother's existance, he made a hellish dimension in between the two worlds known as **Paraslixox**. 
+
+Eventually, too many adventurers were trying to get past Paraslixox so the god sealed the border with an ancient relic. However...
+
+...One day, while strolling in paradise, the god of the worlds himself dropped the relic that sealed Paraslixox. **Team Impossible** accidentally stumbled upon this relic and re-opened the gate, causing a catastrophe. They reverted the god's curse over Paraslixox, preventing the world from crushing down into a ball.
+
+Fast forward to now. Dott heard rumors 
